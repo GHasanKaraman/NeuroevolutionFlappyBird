@@ -2,7 +2,6 @@
 
 namespace Mathematic
 {
-    //My own matric class
     public static class Matrix
     {
         public static int Row(double[,] matrix)
